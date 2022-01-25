@@ -15,6 +15,6 @@ public class BJ_3085 {
 			}
 		}
 		
-		
+		System.out.println("a");
 	}
 }
