@@ -17,5 +17,6 @@ public class BJ_3085 {
 		
 		System.out.println("a");
 		System.out.println("b");
+		System.out.println("b");
 	}
 }
